@@ -1,7 +1,3 @@
-Certainly! Here's a structured version of the content to include in the README file:
-
----
-
 ## Calendar Generator
 
 ### Overview
